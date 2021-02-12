@@ -1,6 +1,6 @@
 ---
 title: Sunflower Sutra
-date: 2019-07-16T19:17:43.000+00:00
+date: 2019-07-16T19:17:43+00:00
 type: blog
 hero: "/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 author: Allen Ginsberg
@@ -41,3 +41,5 @@ and those blear thoughts of death and dusty loveless eyes and ends and withered 
 entangled in your mummied roots--and you standing before me in the sunset, all your glory in your form!
 
 A perfect beauty of a sunflower! a perfect excellent lovely sunflower existence! a sweet natural eye to the new hip moon, woke up alive and excited grasping in the sunset shadow sunrise golden monthly breeze!
+
+$$\\alpha \\times \\beta$$
