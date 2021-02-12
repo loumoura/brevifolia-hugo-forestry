@@ -42,4 +42,3 @@ entangled in your mummied roots--and you standing before me in the sunset, all y
 
 A perfect beauty of a sunflower! a perfect excellent lovely sunflower existence! a sweet natural eye to the new hip moon, woke up alive and excited grasping in the sunset shadow sunrise golden monthly breeze!
 
-$$\\alpha \\times \\beta$$
